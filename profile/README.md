@@ -1,4 +1,4 @@
-![Logo](./RCVDA-Favicon-White-Border.png)
+![Logo](./RCVDA-Logo.png)
 
 **Our Mission**
 
