@@ -1,3 +1,5 @@
+![Logo](./RCVDA-Favicon-White-Border.png)
+
 # Our Mission
 Redcar and Cleveland Voluntary Development Agency is a charity focused on Social Action, offering practical support and advocacy for registered charities, social enterprises and the hundreds of grass roots groups that make up the vibrant and growing voluntary sector in Redcar and Cleveland.
 
